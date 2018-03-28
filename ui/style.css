@@ -8,7 +8,9 @@ body {
 .text-big {
     font-size: 200%;
 }
-
+.center{
+    text-align:center;
+}
 .bold {
     font-weight: bold;
 }
